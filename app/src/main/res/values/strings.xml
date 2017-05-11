@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EndlessChat</string>
+    <string name="user_name">账号</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="new_user">新用户</string>
+    <string name="confirm_password">再次输入密码</string>
+    <string name="register">注册</string>
+    <string name="password_error">密码格式有误</string>
+    <string name="confirmpasswor_error">两次密码不一致</string>
+    <string name="username_error">用户名格式有误</string>
+    <string name="dynamic">动态</string>
+    <string name="logout">退出(%s)</string>
+    <string name="delete_friend_message">与%s友尽</string>
+    <string name="chattitle">与%s聊天中</string>
+    <string name="conversation">消息</string>
+    <string name="loadconversation_success">加载会话成功</string>
+    <string name="unread_msg">非文本消息</string>
+    <string name="reciver_newmessage">收到一条新消息</string>
+</resources>
